@@ -26,7 +26,7 @@ Desenvolver uma lógica de proteção que identifica a faixa de temperatura, aci
 
 ## Resultado esperado
 
-Ao aumentar a temperatura no NTC:
+Ao aumentar a temperatura no potenciômetro linear:
 
 - abaixo de 90 C: sistema normal;
 - a partir de 90 C: ventoinha ligada;
