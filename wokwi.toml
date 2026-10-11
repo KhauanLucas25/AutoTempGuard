@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/auto_temp_guard.ino.hex'
+elf = 'build/auto_temp_guard.ino.elf'
